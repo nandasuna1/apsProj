@@ -8,4 +8,3 @@ para rodar copie e cole os comandos
 javac main.java <br>
 java CopaPistao
 </code>
-# apsProj
